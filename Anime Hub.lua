@@ -2155,7 +2155,7 @@ end
 
 
 
-local Library = Update:Window("Anime Hub","10670434755",Enum.KeyCode.RightControl);
+local Library = Update:Window("Anime","10670434755",Enum.KeyCode.RightControl);
 Main = Library:Tab("General",6026568198)
 Ss = Library:Tab("Auto Stats",7040410130)
 P = Library:Tab("Combat",7251993295)
